@@ -1,43 +1,100 @@
 # Assignment: Define Your Learning Goal
 
-## 1. Select a Skill/Certification Focus
+## Building Your T-Shaped Skill Set
+Your previous training has given you a broad awareness of the full spectrum of technology roles. This serves as the horizontal bar of the "T-Shaped" learning model. Now it's time to develop the vertical bar by choosing a specific focus and "niching down" into a role or skill area.
 
-Identify a specific technology, job description, tool, or certification path (e.g., cybersecurity, quality assurance, IT support, software engineering, etc.) that aligns with your career interests.
+Use the sections below as a template to structure and document your learning plan. Each section includes a brief example to help you shape your own responses.
 
-Make sure this skill is both relevant to your career goals and realistically achievable within the next few months.
+## 1. Select a Focus
 
-## 2. State Your “Why”
+Find a few "dream job" postings. These will serve as your "North Star" as you progress. Identify a specific technology, tool, or certification path that aligns with your "dream job". Ensure it's realistically achievable within the next few months.
 
-Explain the primary motivation behind choosing this skill or certification.
-Consider how it will support your professional development, enhance your employability, or solve a particular problem you’re passionate about.
+### Example
 
+- **Dream Job Posting**: Entry-level Cloud Support Engineer position at [Company XYZ] requiring basic knowledge of Azure services.
+- **Skill Focus**: Microsoft Azure Fundamentals (AZ-900)
+
+## 2. State Your "Why"
+
+Explain why you chose this skill or certification.
+Consider how it might support your professional development, enhance your employability, or address a problem you care about.
+
+### Example
+
+I want to stand out in a competitive job market. An AZ-900 certification shows I have foundational cloud knowledge, which is valuable as more companies migrate to cloud services.
+
+<!-- Add example to each section -->
 ## 3. Outline Your Learning Path
 
-Describe how you plan to learn: list the resources (online tutorials, practice projects, books, official training materials) you’ll use.
+List the resources you plan to use (links to online courses, official documentation, books, practice projects, study groups, etc.).
+Identify mentors or peer groups you can tap into for guidance or feedback.
+Consider how you’ll apply hands-on practice.
 
-Consider any potential mentors, study groups, or practice environments you might leverage for hands-on experience.
+### Example
 
-## 4. Set Measurable Milestones
+#### Resources
+- Microsoft Learn AZ-900 free online learning paths
+- Official AZ-900 study guide from Microsoft
+- YouTube tutorials on Azure basics
+- AZ-900 Practice Exams
 
-Break your goal into smaller, actionable steps (e.g., courses to complete, practice exercises to finish, practices exams to take, certifications, etc.).
+#### Mentorship/Peers
+- Ask a senior engineer at my current workplace for advice on cloud best practices
+- Join an Azure-focused Discord channel to discuss progress
 
-Assign a rough timeline or due date for each milestone, keeping in mind realistic pacing and personal commitments.
+#### Hands-On Practice
+- Set up an Azure account to explore services (Azure Virtual Machines, Azure Storage, etc.)
+- Deploy a portfolio project on Azure
 
+## 4. Set Measurable Milestones (Using SMART Goals)
+
+Break your goal into specific, measurable, achievable, relevant, and time-bound steps.
+Assign a timeline or due date for each milestone.
+Schedule weekly study sessions or time blocks to ensure consistent progress.
+
+### Example
+
+- Milestone 1 (2 Weeks): Complete Microsoft Learn AZ-900 modules and take notes.
+- Milestone 2 (4 Weeks): Finish one official practice exam, aiming for 80% or above.
+- Milestone 3 (6 Weeks): Revisit weak areas and retake the practice exam until consistent 90% scores.
+- Milestone 4 (8 Weeks): Schedule and attempt the official AZ-900 certification exam
+
+<!-- Add example to each section -->
 ## 5. Draft Your Success Criteria
 
-Define clear metrics that indicate you’ve successfully acquired the skill or passed the certification exam (e.g., course completion certificates, practice test scores, applied projects).
+Define clear metrics or outcomes that prove you’ve acquired the skill (e.g., completion certificates, test scores, portfolio projects).
+Describe how you’ll know you’re job-ready (e.g., meeting prerequisites for your dream job posting).
 
-Think about how you will know when you’re “job-ready” in this niche.
+### Example
 
-## 6. Reflection & Next Steps
+- **Certification Achieved**: Passing the official AZ-900 exam.
+- **Practical Knowledge**: Comfortable spinning up basic cloud resources for test projects.
+- **Job-Readiness**: Meeting the technical requirements for an entry-level Cloud Support Engineer role listed in my "dream job" posting.
 
-Reflect on potential obstacles (time, access to resources, motivation) and how you will address them.
 
-Identify at least one immediate next step to get started.
+## 6. Potential Blockers & Overcoming Them
+
+Reflect on possible obstacles (time constraints, limited resources, personal motivation, etc.).
+Brainstorm specific strategies to address these challenges.
+Identify one immediate next step to move forward right away.
+
+### Example
+
+#### Blockers
+- Limited time due to a full-time job
+- Procrastination or burnout from balancing multiple responsibilities
+
+#### Strategies
+- Add 1-hour time blocks on my calendar for uninterrupted study
+- Use the Pomodoro Technique (25 minutes on, 5 minutes off) to stay focused
+- Ask a friend to be an accountability partner
+
+#### Immediate Next Step:
+- Register on Microsoft Learn and start Module 1 of AZ-900 training this weekend
 
 ## Submission Guidelines
 
-Write a short, clear document (1–2 pages) outlining each of the steps above. This will be a "living document" that you will update as you reach milestones and adjust as you learn more.
+Write a short, clear document (1-2 pages) outlining each of the steps above. This will be a "living document" that you will update as you reach milestones and adjust as you learn more.
 
 This can be written in a [Google Doc](https://workspace.google.com/products/docs/) (anyone with link can comment), [GitHub Gist](https://gist.github.com/), or other similar platform.
 
